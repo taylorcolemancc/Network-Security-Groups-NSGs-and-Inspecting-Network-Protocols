@@ -137,22 +137,22 @@ To delete the Resource Group, search for "Resource Group" and select the one con
   </tr>
   <tr>
     <td>DHCP</td>
-    <td>Dynamic Host Configuration Protocol is a network management protocol that automates the process of assigning IP addresses and other communication parameters to devices connected to an IP network.</td>
+    <td>Dynamic Host Configuration Protocol is a network management protocol that automates the process of assigning IP addresses and other communication parameters to devices connected to an IP network. This uses the port UDP 67 and 68.</td>
   </tr>
   <tr>
     <td>DNS</td>
-    <td>Domain Name System converts easily recognizable domain names (such as www.disney.com) into numerical IP addresses that computers can understand.</td>
+    <td>Domain Name System converts easily recognizable domain names (such as www.disney.com) into numerical IP addresses that computers can understand. This uses port TCP and UDP 53.</td>
   </tr>
   <tr>
     <td>SSH</td>
-    <td>Secure Shell facilitates secure remote connections between computers, enabling command line access from one system to another.</td>
+    <td>Secure Shell facilitates secure remote connections between computers, enabling command line access from one system to another. This uses the port TCP 22.</td>
   </tr>
   <tr>
     <td>RDP</td>
-    <td>Remote Desktop Protocol is used when remotely connecting from one computer to another to gain a remote desktop GUI (Graphical User Interface).</td>
+    <td>Remote Desktop Protocol is used when remotely connecting from one computer to another to gain a remote desktop GUI (Graphical User Interface) This uses the port TCP 3389.</td>
   </tr>
   <tr>
     <td>ICMP</td>
-    <td>Internet Control Message Protocol is used for diagnostics and error reporting in IP networks. It helps verify connectivity, troubleshoot issues, and report errors, commonly using the ping utility.</td>
+    <td>Internet Control Message Protocol is used for diagnostics and error reporting in IP networks. It helps verify connectivity, troubleshoot issues, and report errors, commonly using the ping utility. This one does not use a port.</td>
   </tr>
 </table>
